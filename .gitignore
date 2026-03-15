@@ -1,0 +1,4 @@
+node_modules/
+dist/
+qdrant_storage/
+.vscode/mcp.json
